@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XIMA87
+- 👀 I’m interested in games, collectibles and coding.
+- 🌱 I’m currently learning HTML, CSS, JS and C#.
+- 💞️ I’m looking for oportunities to grow, learn and collaborate with companies and other projects.
+- 📫 How to reach me -> https://www.linkedin.com/in/pedro-luiz-braga-andrade-leite-577172138/
