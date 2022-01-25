@@ -38,7 +38,7 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedro-luiz-braga-andrade-leite-577172138/"><img src="https://user-images.githubusercontent.com/91227083/150044718-c1b6656a-78e2-44d3-879a-f7e515493a9f.png"> <a href="https://www.instagram.com/pedrobraga_87/"><img src="https://user-images.githubusercontent.com/91227083/150044700-e612d5f0-0869-42cf-a44a-233cdd5b108f.png">
+<a href="https://www.linkedin.com/in/pedro-luiz-braga-andrade-leite-577172138/"><img src="https://user-images.githubusercontent.com/91227083/150044718-c1b6656a-78e2-44d3-879a-f7e515493a9f.png"> <a href="https://www.instagram.com/pedrobraga_87/"><img src="https://user-images.githubusercontent.com/91227083/150044700-e612d5f0-0869-42cf-a44a-233cdd5b108f.png"></a>
 </p>
 <br>
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
