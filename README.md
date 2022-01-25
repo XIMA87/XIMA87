@@ -21,6 +21,8 @@ Busco oportunidades de crescimento, aprendizado e colaboração
 ![image](https://user-images.githubusercontent.com/91227083/150041137-5236f0bf-76ac-4170-9592-9ddaf86b7af3.png)
 ![image](https://user-images.githubusercontent.com/91227083/150041141-f0a86ff3-a30f-4fcc-9f88-2a32e13afa9c.png)
 ![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
+![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
+
 
 <h3>Outros conhecimentos</h3>
 
