@@ -22,6 +22,8 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 ![image](https://user-images.githubusercontent.com/91227083/150041141-f0a86ff3-a30f-4fcc-9f88-2a32e13afa9c.png)
 ![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
 ![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
+![Figma](https://user-images.githubusercontent.com/91227083/151988465-aead78a6-55c0-4497-ae54-b15634a67ef1.png)
+
 
 
 <h3>Outros conhecimentos</h3>
@@ -67,6 +69,8 @@ Im looking for opportunities of growth, learning and collaboration.
 ![image](https://user-images.githubusercontent.com/91227083/150041141-f0a86ff3-a30f-4fcc-9f88-2a32e13afa9c.png)
 ![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
 ![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
+![Figma](https://user-images.githubusercontent.com/91227083/151988498-748c9989-dd6f-4dfa-8972-35f2265dfba9.png)
+
 
 
 <h3>Other skills</h3>
