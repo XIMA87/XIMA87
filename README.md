@@ -99,15 +99,3 @@ Im looking for opportunities of growth, learning and collaboration.
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-luiz-braga-andrade-leite-577172138/"><img src="https://user-images.githubusercontent.com/91227083/152689279-6f4564f3-accf-4b07-8676-9c01fcd7aa79.png"> <a href="https://www.instagram.com/pedrobraga_87/"><img src="https://user-images.githubusercontent.com/91227083/152689292-de6d98b6-3619-4bd3-ba48-47eb3adc196d.png"></a>
 </p>
-<br>
-<p align=center>-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-</p>
-
-
-
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIMA87&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIMA87&layout=compact)
