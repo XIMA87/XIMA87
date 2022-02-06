@@ -27,6 +27,7 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 <h3>Outros conhecimentos</h3>
 
 ![Bootstrap](https://user-images.githubusercontent.com/91227083/152693199-1fd1711c-e975-42ec-9313-834e27100648.png)
+![JQuery](https://user-images.githubusercontent.com/91227083/152695959-21895930-b834-4cd8-8923-5cee601fcba0.png)
 ![Canva](https://user-images.githubusercontent.com/91227083/152693196-af701dd1-da0d-492f-8648-43f5d5f3ec6c.png)
 
 <h3>Estudando</h3>
@@ -73,6 +74,7 @@ Im looking for opportunities of growth, learning and collaboration.
 <h3>Other skills</h3>
 
 ![Bootstrap](https://user-images.githubusercontent.com/91227083/152693199-1fd1711c-e975-42ec-9313-834e27100648.png)
+![JQuery](https://user-images.githubusercontent.com/91227083/152695968-e6728bda-5a2a-4257-ba97-4e15f58d675d.png)
 ![Canva](https://user-images.githubusercontent.com/91227083/152693196-af701dd1-da0d-492f-8648-43f5d5f3ec6c.png)
 
 <h3>Studying</h3>
