@@ -23,7 +23,8 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 ![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
 ![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
 ![Figma](https://user-images.githubusercontent.com/91227083/151988465-aead78a6-55c0-4497-ae54-b15634a67ef1.png)
-![Canva](https://user-images.githubusercontent.com/91227083/152687909-23a55584-a8c6-4646-a59a-82f6aac4ba43.png)
+![Canva](https://user-images.githubusercontent.com/91227083/152688104-fbc5af59-c0c0-4d69-90ee-4697508bc16c.png)
+
 
 
 
@@ -72,7 +73,8 @@ Im looking for opportunities of growth, learning and collaboration.
 ![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
 ![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
 ![Figma](https://user-images.githubusercontent.com/91227083/151988498-748c9989-dd6f-4dfa-8972-35f2265dfba9.png)
-![Canva](https://user-images.githubusercontent.com/91227083/152687911-e81506c3-0319-47e1-8299-c92e8fd810e3.png)
+![Canva](https://user-images.githubusercontent.com/91227083/152688112-fd230ed2-e56f-4e82-8c01-e395e372ae0d.png)
+
 
 
 
