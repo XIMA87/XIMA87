@@ -10,33 +10,28 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
  
 <h3>Principais conhecimentos</h3>
  
-![image](https://user-images.githubusercontent.com/91227083/150040893-e82d0801-5eab-4b1b-967c-16adb2f8430a.png)
-![image](https://user-images.githubusercontent.com/91227083/150040908-754941fb-3436-4a7d-b6e8-64fedf6e1b32.png)
-![image](https://user-images.githubusercontent.com/91227083/150040918-3669444c-dead-45f8-bc37-a2641df607d7.png)
+![Html](https://user-images.githubusercontent.com/91227083/152693097-55caebc2-9743-4591-8452-827c62f17f26.png)
+![Css](https://user-images.githubusercontent.com/91227083/152693101-d37343c7-c18d-4eb8-8f78-459dd4bb276a.png)
+![JS](https://user-images.githubusercontent.com/91227083/152693104-759fe373-0567-4718-9c3f-7278b5736b42.png)
 
 <h3>Principais ferramentas</h3>
  
-![image](https://user-images.githubusercontent.com/91227083/150041117-9b8d1972-1f8e-4553-a9cc-84cfc2d4e6d7.png)
-![image](https://user-images.githubusercontent.com/91227083/150041122-362f3e6c-5479-495a-ac4a-efdbfff04d83.png)
-![image](https://user-images.githubusercontent.com/91227083/150041137-5236f0bf-76ac-4170-9592-9ddaf86b7af3.png)
-![image](https://user-images.githubusercontent.com/91227083/150041141-f0a86ff3-a30f-4fcc-9f88-2a32e13afa9c.png)
-![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
-![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
-![Figma](https://user-images.githubusercontent.com/91227083/152688253-9f99f8b8-e346-42e8-ac97-f309b8dd2b24.png)
-![Canva](https://user-images.githubusercontent.com/91227083/152688256-3bd01a81-caf6-4b75-8056-d1771883734e.png)
-
-
-
-
-
+![VS Code](https://user-images.githubusercontent.com/91227083/152693122-08c26ab6-e274-4132-940b-96ab996cc24a.png)
+![Git](https://user-images.githubusercontent.com/91227083/152693125-b61f3723-8c01-414d-b317-9b15ea26f627.png)
+![GitHub](https://user-images.githubusercontent.com/91227083/152693127-64e1b66b-040a-43d1-a9e6-06d9afc8ec8c.png)
+![NodeJS](https://user-images.githubusercontent.com/91227083/152693149-60a3ab17-cd52-42fe-83cf-18fd8c1f151a.png)
+![Windows](https://user-images.githubusercontent.com/91227083/152693159-09ce7cd0-5fa2-4e03-968b-398d26250f3b.png)
+![Office](https://user-images.githubusercontent.com/91227083/152693164-711f9477-55d5-4bd1-9308-4626f3725ea9.png)
+![Figma](https://user-images.githubusercontent.com/91227083/152693171-e2e61bec-37da-4db7-9ed1-4028736bf16d.png)
 
 <h3>Outros conhecimentos</h3>
 
-![image](https://user-images.githubusercontent.com/91227083/150041339-6831fdaf-7a88-4a15-bd29-6e447890a25e.png)
+![Bootstrap](https://user-images.githubusercontent.com/91227083/152693199-1fd1711c-e975-42ec-9313-834e27100648.png)
+![Canva](https://user-images.githubusercontent.com/91227083/152693196-af701dd1-da0d-492f-8648-43f5d5f3ec6c.png)
 
 <h3>Estudando</h3>
   
-![C#](https://user-images.githubusercontent.com/91227083/150047404-ad9aa44d-623d-49bc-83df-4fb684ceb64d.png)
+![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
 
 
 <p align="center">
@@ -61,32 +56,28 @@ Im looking for opportunities of growth, learning and collaboration.
  
 <h3>Main skills</h3>
  
-![image](https://user-images.githubusercontent.com/91227083/150040893-e82d0801-5eab-4b1b-967c-16adb2f8430a.png)
-![image](https://user-images.githubusercontent.com/91227083/150040908-754941fb-3436-4a7d-b6e8-64fedf6e1b32.png)
-![image](https://user-images.githubusercontent.com/91227083/150040918-3669444c-dead-45f8-bc37-a2641df607d7.png)
+![Html](https://user-images.githubusercontent.com/91227083/152693097-55caebc2-9743-4591-8452-827c62f17f26.png)
+![Css](https://user-images.githubusercontent.com/91227083/152693101-d37343c7-c18d-4eb8-8f78-459dd4bb276a.png)
+![JS](https://user-images.githubusercontent.com/91227083/152693104-759fe373-0567-4718-9c3f-7278b5736b42.png)
 
 <h3>Main tools</h3>
  
-![image](https://user-images.githubusercontent.com/91227083/150041117-9b8d1972-1f8e-4553-a9cc-84cfc2d4e6d7.png)
-![image](https://user-images.githubusercontent.com/91227083/150041122-362f3e6c-5479-495a-ac4a-efdbfff04d83.png)
-![image](https://user-images.githubusercontent.com/91227083/150041137-5236f0bf-76ac-4170-9592-9ddaf86b7af3.png)
-![image](https://user-images.githubusercontent.com/91227083/150041141-f0a86ff3-a30f-4fcc-9f88-2a32e13afa9c.png)
-![image](https://user-images.githubusercontent.com/91227083/150041149-f983aa71-a934-47f9-b8e1-5c832f4d330c.png)
-![NodeJS](https://user-images.githubusercontent.com/91227083/150893761-1060fb8a-66cd-4096-ae11-1cb540abf4cf.png)
-![Figma](https://user-images.githubusercontent.com/91227083/152688266-7acec065-bf42-4e35-8e31-ca5ffac3f9ca.png)
-![Canva](https://user-images.githubusercontent.com/91227083/152688271-0a0da710-56c5-416f-91de-0c737552953a.png)
-
-
-
-
+![VS Code](https://user-images.githubusercontent.com/91227083/152693122-08c26ab6-e274-4132-940b-96ab996cc24a.png)
+![Git](https://user-images.githubusercontent.com/91227083/152693125-b61f3723-8c01-414d-b317-9b15ea26f627.png)
+![GitHub](https://user-images.githubusercontent.com/91227083/152693127-64e1b66b-040a-43d1-a9e6-06d9afc8ec8c.png)
+![NodeJS](https://user-images.githubusercontent.com/91227083/152693149-60a3ab17-cd52-42fe-83cf-18fd8c1f151a.png)
+![Windows](https://user-images.githubusercontent.com/91227083/152693159-09ce7cd0-5fa2-4e03-968b-398d26250f3b.png)
+![Office](https://user-images.githubusercontent.com/91227083/152693164-711f9477-55d5-4bd1-9308-4626f3725ea9.png)
+![Figma](https://user-images.githubusercontent.com/91227083/152693171-e2e61bec-37da-4db7-9ed1-4028736bf16d.png)
 
 <h3>Other skills</h3>
 
-![image](https://user-images.githubusercontent.com/91227083/150041339-6831fdaf-7a88-4a15-bd29-6e447890a25e.png)
+![Bootstrap](https://user-images.githubusercontent.com/91227083/152693199-1fd1711c-e975-42ec-9313-834e27100648.png)
+![Canva](https://user-images.githubusercontent.com/91227083/152693196-af701dd1-da0d-492f-8648-43f5d5f3ec6c.png)
 
 <h3>Studying</h3>
   
-![C#](https://user-images.githubusercontent.com/91227083/150047404-ad9aa44d-623d-49bc-83df-4fb684ceb64d.png)
+![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
 
 
 <p align="center">
