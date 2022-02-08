@@ -61,7 +61,7 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 
 Systems Analysis and Development student (PUC-MINAS) and passionate about origami, games, miniatures, Star Wars, D&D and Geek culture in general.
 
-I have a team work mind and i find it easy to work in a group. I'm also good with logistics, resources and people management.
+I have a team work mentality and i find it easy to work in a group. I'm also good with logistics, resources and people management.
 
 Im looking for opportunities of growth, learning and collaboration.
  
