@@ -2,7 +2,7 @@
 
 <h3>Sobre mim</h3>
 
-Estudante de Análise e Desenvolvimento de Sistemas (PUC-MINAS) e apaixonado por origamis, jogos, miniaturas, Star Wars, D&D e cultura Geek em geral.
+Estudante de Análise e Desenvolvimento de Sistemas (PUC-MINAS) e apaixonado por origamis, jogos, miniaturas, Star Wars, D&D e cultura Geek.
 
 Sou uma pessoa calma e criativa, com inteligência emocional, espírito de equipe, facilidade de trabalhar em grupo e bom com logística, gestão de recursos e pessoas. 
 
@@ -59,7 +59,7 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 
 <h3>About me</h3>
 
-Systems Analysis and Development student (PUC-MINAS) and passionate about origami, games, miniatures, Star Wars, D&D and Geek culture in general.
+Systems Analysis and Development student (PUC-MINAS) passionate about origami, games, miniatures, Star Wars, D&D and Geek culture.
 
 I'm a calm and creative person, with emotional intelligence, team spirit, good with logistics, resource and people management.
 
