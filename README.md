@@ -21,6 +21,7 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 ![GitHub](https://user-images.githubusercontent.com/91227083/152693127-64e1b66b-040a-43d1-a9e6-06d9afc8ec8c.png)
 ![Windows](https://user-images.githubusercontent.com/91227083/152693159-09ce7cd0-5fa2-4e03-968b-398d26250f3b.png)
 ![Office](https://user-images.githubusercontent.com/91227083/152693164-711f9477-55d5-4bd1-9308-4626f3725ea9.png)
+![NodeJS](https://user-images.githubusercontent.com/91227083/152693149-60a3ab17-cd52-42fe-83cf-18fd8c1f151a.png)
 
 <h3>Outros conhecimentos</h3>
 
@@ -32,7 +33,6 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 <h3>Estudando</h3>
   
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
-![NodeJS](https://user-images.githubusercontent.com/91227083/152693149-60a3ab17-cd52-42fe-83cf-18fd8c1f151a.png)
 
 
 <p align="center">
@@ -78,6 +78,7 @@ Im looking for opportunities of growth, learning and collaboration.
 ![GitHub](https://user-images.githubusercontent.com/91227083/152693127-64e1b66b-040a-43d1-a9e6-06d9afc8ec8c.png)
 ![Windows](https://user-images.githubusercontent.com/91227083/152693159-09ce7cd0-5fa2-4e03-968b-398d26250f3b.png)
 ![Office](https://user-images.githubusercontent.com/91227083/152693164-711f9477-55d5-4bd1-9308-4626f3725ea9.png)
+![NodeJS](https://user-images.githubusercontent.com/91227083/152693149-60a3ab17-cd52-42fe-83cf-18fd8c1f151a.png)
 
 <h3>Other skills</h3>
 
@@ -89,7 +90,6 @@ Im looking for opportunities of growth, learning and collaboration.
 <h3>Studying</h3>
   
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
-![NodeJS](https://user-images.githubusercontent.com/91227083/152693149-60a3ab17-cd52-42fe-83cf-18fd8c1f151a.png)
 
 
 <p align="center">
