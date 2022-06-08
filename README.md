@@ -33,6 +33,8 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 <h3>Estudando</h3>
   
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
+![MSSQL](https://user-images.githubusercontent.com/91227083/172642055-eeb4e4c2-eb58-4238-8e07-911a5b5fc6ce.png)
+![Angular](https://user-images.githubusercontent.com/91227083/172642121-6dd1a3c8-37a2-4446-a7a0-5973e5ce5dec.png)
 
 
 <p align="center">
@@ -90,6 +92,8 @@ Im looking for opportunities of growth, learning and collaboration.
 <h3>Studying</h3>
   
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
+![MSSQL](https://user-images.githubusercontent.com/91227083/172642055-eeb4e4c2-eb58-4238-8e07-911a5b5fc6ce.png)
+![Angular](https://user-images.githubusercontent.com/91227083/172642121-6dd1a3c8-37a2-4446-a7a0-5973e5ce5dec.png)
 
 
 <p align="center">
