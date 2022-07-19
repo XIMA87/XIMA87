@@ -34,7 +34,7 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 <h3>Estudando</h3>
   
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
-![MSSQL](https://user-images.githubusercontent.com/91227083/172642055-eeb4e4c2-eb58-4238-8e07-911a5b5fc6ce.png)
+![MySQL](https://user-images.githubusercontent.com/91227083/179776067-59b4bb2b-8979-4c17-86e5-a14df2484c12.png)
 ![Angular](https://user-images.githubusercontent.com/91227083/172642121-6dd1a3c8-37a2-4446-a7a0-5973e5ce5dec.png)
 ![PHP](https://user-images.githubusercontent.com/91227083/179228344-587810b6-e426-4868-9188-6ba0dd5ef577.png)
 
@@ -95,7 +95,7 @@ Im looking for opportunities of growth, learning and collaboration.
 <h3>Studying</h3>
   
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
-![MSSQL](https://user-images.githubusercontent.com/91227083/172642055-eeb4e4c2-eb58-4238-8e07-911a5b5fc6ce.png)
+![MySQL](https://user-images.githubusercontent.com/91227083/179776111-0e06125e-9326-477a-a1ec-6c6357864bf4.png)
 ![Angular](https://user-images.githubusercontent.com/91227083/172642121-6dd1a3c8-37a2-4446-a7a0-5973e5ce5dec.png)
 ![PHP](https://user-images.githubusercontent.com/91227083/179228378-fce64bec-ebfb-44cb-baa0-422bdd3e5a70.png)
 
