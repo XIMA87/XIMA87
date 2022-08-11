@@ -36,8 +36,6 @@ Busco oportunidades de crescimento, aprendizado e colaboração.
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
 ![MySQL](https://user-images.githubusercontent.com/91227083/179776067-59b4bb2b-8979-4c17-86e5-a14df2484c12.png)
 ![React Native](https://user-images.githubusercontent.com/91227083/183781459-cf1431ff-c639-4836-a83d-4340eac045b8.png)
-![Angular](https://user-images.githubusercontent.com/91227083/172642121-6dd1a3c8-37a2-4446-a7a0-5973e5ce5dec.png)
-![PHP](https://user-images.githubusercontent.com/91227083/179228344-587810b6-e426-4868-9188-6ba0dd5ef577.png)
 
 
 
@@ -98,8 +96,6 @@ Im looking for opportunities of growth, learning and collaboration.
 ![C#](https://user-images.githubusercontent.com/91227083/152693202-5601f3fd-137f-464b-aebe-0f4d40548862.png)
 ![MySQL](https://user-images.githubusercontent.com/91227083/179776111-0e06125e-9326-477a-a1ec-6c6357864bf4.png)
 ![React Native](https://user-images.githubusercontent.com/91227083/183781477-df6d033d-55cf-41d0-b2e1-77958770d655.png)
-![Angular](https://user-images.githubusercontent.com/91227083/172642121-6dd1a3c8-37a2-4446-a7a0-5973e5ce5dec.png)
-![PHP](https://user-images.githubusercontent.com/91227083/179228378-fce64bec-ebfb-44cb-baa0-422bdd3e5a70.png)
 
 
 
