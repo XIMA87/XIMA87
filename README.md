@@ -4,9 +4,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (PUC-MINAS) e apaixonado por origamis, jogos, miniaturas, Star Wars, D&D e cultura Geek.
 
-Sou uma pessoa calma e criativa, com inteligência emocional, espírito de equipe, facilidade de trabalhar em grupo e bom com logística, gestão de recursos e pessoas. 
+Sou uma pessoa calma e criativa, com inteligência emocional, espírito de equipe, facilidade de trabalhar em grupo e bom com logística, gestão de recursos e pessoas.
 
-Busco oportunidades de crescimento, aprendizado e colaboração.
+Tenho muita motivação, vontade de adquirir novos conhecimentos e sempre busco oportunidades de crescimento, aprendizado e colaboração.
  
 <h3>Principais conhecimentos</h3>
  
@@ -67,7 +67,7 @@ Systems Analysis and Development student (PUC-MINAS) passionate about origami, g
 
 I'm a calm and creative person, with emotional intelligence, team spirit, good with logistics, resource and people management.
 
-Im looking for opportunities of growth, learning and collaboration.
+I have a lot of motivation, im always learning new skills and looking for opportunities of growth, learning and collaboration.
  
 <h3>Main skills</h3>
  
